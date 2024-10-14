@@ -1,0 +1,14 @@
+{
+  "Nickname": "",
+  "Visibility": "Visible",
+  "OneLineDescription": "Export Armor EDID",
+  "LongDescription": "Synthesis patcher to export EDID to ether text or a formated CS out put, created for helping me increating my bobokwd patcher ",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimSE",
+    "SkyrimVR",
+    "EnderalSE",
+    "SkyrimSEGog"
+  ]
+}
